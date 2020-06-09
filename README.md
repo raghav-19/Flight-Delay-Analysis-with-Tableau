@@ -3,12 +3,16 @@ Flight Delay Analysis with Tableau
 Author : Raghav Raipuria
 
 Link to my Tableau Workbok : 
+
 https://public.tableau.com/profile/raghavraipuria#!/vizhome/USFlightDelayAnalysis/DelayAnalysis
+
 Summary :
+
 This Dataset is obtained from BTS website which contain the information about flight delays. The dataset I used in 2016-2019.
 Dataset can be found on https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
 
 I have created the visualizations in Tableau that answer the following questions: 
+
 1. What are the percentage of different type of flight delay and how they are distributed over Carrier,Airport,Year,Month
 
 2. Percentage of Cancelled/Diverted flight over Airport,Carrier,Month.
