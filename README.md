@@ -1,12 +1,12 @@
-Flight Delay Analysis with Tableau
+# Flight Delay Analysis with Tableau
 
 Author : Raghav Raipuria
 
-Link to my Tableau Workbok : 
+# Link to my Tableau Workbook : 
 
 https://public.tableau.com/profile/raghavraipuria#!/vizhome/USFlightDelayAnalysis/DelayAnalysis
 
-Summary :
+# Summary :
 
 This Dataset is obtained from BTS website which contain the information about flight delays. The dataset I used in 2016-2019.
 Dataset can be found on https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
@@ -25,9 +25,9 @@ I have created the visualizations in Tableau that answer the following questions
 
 airline_delay_causes.csv - this file contain downloaded dataset from BTS Site.
 
-Files:
+# Files:
 
-US Flight Delay Analysis.twbx – Tableau workbook profile and can be accessed through my public tableau profile as well from https://public.tableau.com/profile/raghavraipuria#!/vizhome/USFlightDelayAnalysis/DelayAnalysis
+US Flight Delay Analysis.twbx – Tableau Workbook profile and can be accessed through my public tableau profile as well from https://public.tableau.com/profile/raghavraipuria#!/vizhome/USFlightDelayAnalysis/DelayAnalysis
 
 airline_delay_causes.csv - this file contain downloaded dataset from BTS Site.
 
