@@ -8,7 +8,7 @@ https://public.tableau.com/profile/raghavraipuria#!/vizhome/USFlightDelayAnalysi
 
 ## Summary :
 
-This Dataset is obtained from BTS website which contain the information about flight delays. The dataset I used in 2016-2019.
+This Dataset is obtained from United States Department of Transportation. The dataset I used in Year range of 2016-2019.
 Dataset can be found on https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
 
 I have created the visualizations in Tableau that answer the following questions: 
